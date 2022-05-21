@@ -1,16 +1,43 @@
-### Hi there 👋
+### Olá! Eu sou a Angelica Farias, futura Cientista de Dados. 👋
 
-<!--
-**fariasangelica/fariasangelica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ **Curiosidade:**
+Amo colorir o cabelo e tenho facilidade para aprender instrumentos musicais.                                                                                        
+- 💬 **Habilidades:** 
+Me comunico bem, gosto de trabalhar em equipe, fluente em Libras.
 
-Here are some ideas to get you started:
+**TEMOS QUE HACKEAR ESTEREÓTIPOS** - Cristina Aranda G.
+<div 
+<align="center">
+<img src="https://user-images.githubusercontent.com/98922466/165030306-6f6e43cd-f3b0-483f-88be-07adafa9aac8.png" width="500px">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+  
+<h3 align="left"> 📊 Métricas do Github: </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AngelicaOliveira22&label=Profile%20views&color=0e75b6&style=flat" alt="AngelicaOliveira22" /> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelicaOliveira22&show_icons=true&locale=en" alt="AngelicaOliveira22" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelicaOliveira22&" alt="AngelicaOliveira22" /></p>  
+
+##
+<div>
+<b>🛠️ Algumas linguagens e ferramentas que eu uso:</b>
+      
+- **Ferramentas Analítica:** Python para Análise de Dados;
+- **Banco de Dados:** MySQL, SQL;
+- **Processamento e Análise de Dados:** Numpy e Pandas;
+- **Visualização de Dados:** Matplotlib e Plotly;
+- **Versionamento:** Git, GitHub;
+- **Probabilidade | Estatística | Linguagem de Programação e Algoritmos**.
+</div> 
+  
+##
+</br>
+<h3 align="left">🔗 Entre em contato comigo:</h3>
+<p align="left">
+  <a href = "mailto:angelicafarioliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="http://www.linkedin.com/in/an
+gelicaoliveira-ciênciadedados" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
