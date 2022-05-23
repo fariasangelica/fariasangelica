@@ -14,11 +14,11 @@ Me comunico bem, gosto de trabalhar em equipe, fluente em Libras.
 ##
   
 <h3 align="left"> 📊 Métricas do Github: </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AngelicaOliveira22&label=Profile%20views&color=0e75b6&style=flat" alt="AngelicaOliveira22" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fariasangelica&label=Profile%20views&color=0e75b6&style=flat" alt="fariasangelica" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelicaOliveira22&show_icons=true&locale=en" alt="AngelicaOliveira22" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fariasangelica&show_icons=true&locale=en" alt="fariasangelica" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AngelicaOliveira22&" alt="AngelicaOliveira22" /></p>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fariasangelica&" alt="fariasangelica" /></p>  
 
 ##
 <div>
