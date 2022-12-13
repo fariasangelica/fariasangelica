@@ -25,7 +25,7 @@ Me comunico bem, gosto de trabalhar em equipe, fluente em Libras.
 <b>🛠️ Algumas linguagens e ferramentas que eu uso:</b>
       
 - **Ferramentas:** Python;
-- **Banco de Dados:** MySQL, SQL;
+- **Banco de Dados:** MySQL, SQL, ORACLE;
 - **Processamento e Análise de Dados:** Numpy e Pandas;
 - **Visualização de Dados:** Matplotlib e Plotly;
 - **Versionamento:** Git, GitHub;
