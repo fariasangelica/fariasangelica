@@ -1,4 +1,4 @@
-### Olá! Eu sou a Angelica Farias, futura Cientista de Dados. 👋
+### Olá! Eu sou a Angelica Farias Oliveira 👋
 
 - ⚡ **Curiosidade:**
 Amo colorir o cabelo e tenho facilidade para aprender instrumentos musicais.                                                                                        
@@ -24,7 +24,7 @@ Me comunico bem, gosto de trabalhar em equipe, fluente em Libras.
 <div>
 <b>🛠️ Algumas linguagens e ferramentas que eu uso:</b>
       
-- **Ferramentas Analítica:** Python para Análise de Dados;
+- **Ferramentas:** Python;
 - **Banco de Dados:** MySQL, SQL;
 - **Processamento e Análise de Dados:** Numpy e Pandas;
 - **Visualização de Dados:** Matplotlib e Plotly;
