@@ -22,7 +22,7 @@ Amo colorir o cabelo e tenho facilidade para aprender instrumentos musicais.
 <div>
 <b>🛠️ Algumas linguagens e ferramentas que eu uso:</b>
   
-- **Kinguagem de programação:** Javascript, CSS e HTML.
+- **Linguagem de programação:** Javascript, CSS e HTML.
 - **Experiência com agil:** Scrum e Kanban.
 - **Ferramentas de monitoramento:** Grafana, Elastic Stack e Graylog.
 - **Banco de Dados:** Relacionais e não relacionais.
