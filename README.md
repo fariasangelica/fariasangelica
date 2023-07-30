@@ -2,8 +2,6 @@
 
 - ⚡ **Curiosidade:**
 Amo colorir o cabelo e tenho facilidade para aprender instrumentos musicais.                                                                                        
-- 💬 **Habilidades:** 
-Me comunico bem, gosto de trabalhar em equipe, fluente em Libras.
 
 **TEMOS QUE HACKEAR ESTEREÓTIPOS** - Cristina Aranda G.
 <div 
@@ -23,13 +21,18 @@ Me comunico bem, gosto de trabalhar em equipe, fluente em Libras.
 ##
 <div>
 <b>🛠️ Algumas linguagens e ferramentas que eu uso:</b>
-      
-- **Ferramentas:** Python;
-- **Banco de Dados:** MySQL, SQL, ORACLE;
-- **Processamento e Análise de Dados:** Numpy e Pandas;
-- **Visualização de Dados:** Matplotlib e Plotly;
+  
+- **Kinguagem de programação:** Javascript, CSS e HTML.
+- **Experiência com agil:** Scrum e Kanban.
+- **Ferramentas de monitoramento:** Grafana, Elastic Stack e Graylog.
+- **Banco de Dados:** Relacionais e não relacionais.
+- **Conhecimento em sistema de mesageria:** RabbitMQ e Kafka;
+- **Ferramentas de gestão:** Azure DevOps, Trello, Jira, Confluence.
 - **Versionamento:** Git, GitHub;
-- **Probabilidade | Estatística | Linguagem de Programação e Algoritmos**.
+- **Automação de teste em AP:** Postman, RestAssured.
+- **Outros conheciementos:** RobotFramework, Swagger, SoapUi, Wireshark, Shell Script, Gherkin,
+  Lógica de programação, Fundamentos de testes.
+  
 </div> 
   
 ##
