@@ -22,16 +22,17 @@ Amo colorir o cabelo e tenho facilidade para aprender instrumentos musicais.
 <div>
 <b>🛠️ Algumas linguagens e ferramentas que eu uso:</b>
   
-- **Linguagem de programação:** Javascript, CSS e HTML.
+- **Linguagem de programação:** Python.
 - **Experiência com agil:** Scrum e Kanban.
 - **Ferramentas de monitoramento:** Grafana, Elastic Stack e Graylog.
-- **Banco de Dados:** Relacionais e não relacionais.
-- **Conhecimento em sistema de mesageria:** RabbitMQ e Kafka;
-- **Ferramentas de gestão:** Azure DevOps, Trello, Jira, Confluence.
+- **Banco de Dados:** SQL e MySQL.
+- **Conhecimento em sistema de mensageria:** RabbitMQ e Kafka;
+- **Conhecimento básico em AWS:** EC2, S2, S3 ;
+- **Ferramentas de gestão:** Azure DevOps, Trello, Jira, Confluence e Notion.
 - **Versionamento:** Git, GitHub;
 - **Automação de teste em AP:** Postman, RestAssured.
-- **Outros conheciementos:** RobotFramework, Swagger, SoapUi, Wireshark, Shell Script, Gherkin,
-  Lógica de programação, Fundamentos de testes.
+- **Outros conheciementos:** RobotFramework, Swagger, SoapUi, Wireshark, Shell Script,
+  Lógica de programação e Fundamentos de testes.
   
 </div> 
   
