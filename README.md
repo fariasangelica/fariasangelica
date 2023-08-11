@@ -32,7 +32,7 @@ Amo colorir o cabelo e tenho facilidade para aprender instrumentos musicais.
 - **Versionamento:** Git, GitHub;
 - **Automação de testes :** Postman, RestAssured.
 - **Outros conheciementos:** RobotFramework, Swagger, SoapUi, Wireshark, Shell Script,
-  Lógica de programação e Fundamentos de testes.
+  Lógica de programação, Fundamentos de testes, Documentação REST/RESTfull APIs.
   
 </div> 
   
