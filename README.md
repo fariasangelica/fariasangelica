@@ -1,4 +1,4 @@
-### Olá! Eu sou a Angelica Farias Oliveira 👋
+### Olá! Eu sou a Angelica 👋
 
 - ⚡ **Curiosidade:**
 Amo colorir o cabelo e tenho facilidade para aprender instrumentos musicais.                                                                                        
