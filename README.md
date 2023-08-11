@@ -30,7 +30,7 @@ Amo colorir o cabelo e tenho facilidade para aprender instrumentos musicais.
 - **Conhecimento básico em AWS:** EC2, S2, S3 ;
 - **Ferramentas de gestão:** Azure DevOps, Trello, Jira, Confluence e Notion.
 - **Versionamento:** Git, GitHub;
-- **Automação de teste em AP:** Postman, RestAssured.
+- **Automação de testes :** Postman, RestAssured.
 - **Outros conheciementos:** RobotFramework, Swagger, SoapUi, Wireshark, Shell Script,
   Lógica de programação e Fundamentos de testes.
   
