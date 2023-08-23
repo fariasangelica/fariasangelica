@@ -1,7 +1,9 @@
 ### Olá! Eu sou a Angelica 👋
 
-- ⚡ **Curiosidade:**
-Amo colorir o cabelo e tenho facilidade para aprender instrumentos musicais.                                                                                        
+⚡ **Curiosidade:**
+- Amo colorir o cabelo e tenho facilidade para aprender instrumentos musicais.
+- Aprendi a me comunicar por LIBRAS com 7 anos de idade e desde então é uma das línguas que eu mais amo.
+                                                                                        
 
 **TEMOS QUE HACKEAR ESTEREÓTIPOS** - Cristina Aranda G.
 <div 
