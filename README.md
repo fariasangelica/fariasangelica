@@ -24,7 +24,8 @@
 <div>
 <b>🛠️ Algumas linguagens e ferramentas que eu uso:</b>
   
-- **Linguagem de programação:** Python.
+- **Linguagem de programação:** Java.
+- **Frameworks:** Anngular e Spring.
 - **Experiência com agil:** Scrum e Kanban.
 - **Ferramentas de monitoramento:** Grafana, Elastic Stack e Graylog.
 - **Banco de Dados:** SQL e MySQL.
