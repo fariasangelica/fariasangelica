@@ -1,8 +1,8 @@
-### Olá! Eu sou a Angelica 👋
+### Olá! Eu sou a Angelica 🧑‍💻
 
 ⚡ **Curiosidade:**
 - Amo colorir o cabelo e tenho facilidade para aprender instrumentos musicais.
-- Aprendi a me comunicar por LIBRAS com 7 anos de idade e desde então é uma das línguas que eu mais amo.
+- Aprendi a me comunicar sozinha por LIBRAS com 7 anos de idade e desde então, é uma das línguas que eu mais amo.
                                                                                         
 
 **TEMOS QUE HACKEAR ESTEREÓTIPOS** - Cristina Aranda G.
@@ -22,20 +22,34 @@
 
 ##
 <div>
-<b>🛠️ Algumas linguagens e ferramentas que eu uso:</b>
   
-- **Linguagem de programação:** Java.
-- **Frameworks:** Anngular, Spring e Scrum.
-- **Experiência com agil:** Scrum e Kanban.
-- **Ferramentas de monitoramento:** Grafana, Elastic Stack e Graylog.
-- **Banco de Dados:** SQL e MySQL.
-- **Conhecimento em sistema de mensageria:** RabbitMQ e Kafka;
-- **Conhecimento básico em AWS:** EC2, S2, S3 ;
-- **Ferramentas de gestão:** Azure DevOps, Trello, Jira, Confluence e Notion.
-- **Versionamento:** Git, GitHub;
-- **Automação de testes :** Postman, RestAssured.
-- **Outros conheciementos:** RobotFramework, Swagger, SoapUi, Wireshark, Shell Script,
-  Lógica de programação, Fundamentos de testes, Documentação REST/RESTfull APIs.
+Algumas tecnologias e ferramentas que eu uso:
+
+
+Backend: 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+
+Banco de dados:
+![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+Ferramentas:
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+IDEs:
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  
   
 </div> 
   
