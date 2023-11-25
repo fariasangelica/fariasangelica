@@ -6,7 +6,8 @@
 **TEMOS QUE HACKEAR ESTEREÓTIPOS** - Cristina Aranda G.
 <div 
 <align="center">
-<img src="https://user-images.githubusercontent.com/98922466/165030306-6f6e43cd-f3b0-483f-88be-07adafa9aac8.png" width="500px">
+<img width="382" alt="image" src="https://github.com/fariasangelica/fariasangelica/assets/98922466/32880d96-4a76-4d60-be29-09385f0413bd">
+
 </div>
 
 ##
