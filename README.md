@@ -18,7 +18,7 @@
 
 #
 
-💡**Curiosidades:**
+👀 **Curiosidades:**
 
 - ✍🏼 Uma das minhas frases favoritas: "Suas atitudes falam tão alto que eu não consigo escutar o que você diz" - Ralph Waldo Emerson.
 - 🎻 Quando criança, aprendi a tocar alguns instrumentos sozinha: Violino, teclado, violão, ukulele e percussão.
