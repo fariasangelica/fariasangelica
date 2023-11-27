@@ -19,7 +19,7 @@
 #
 
 🧠 Curiosidades:
-- Uma das minhas frases favoritas: " Suas atitudes falam tão alto que eu não consigo escutar o que você diz".
+- Uma das minhas frases favoritas: "Suas atitudes falam tão alto que eu não consigo escutar o que você diz."
 - Quando criança, aprendi a tocar alguns intrumentos sozinha: Violino, teclado, violão, ukulele e percussão.
 - Principais soft skills: Comunicação, proatividade, trabalho em equipe e muita curiosidade.
 
