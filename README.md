@@ -24,7 +24,7 @@
 - 🎻 Quando criança, aprendi a tocar alguns instrumentos sozinha: Violino, teclado, violão, ukulele e percussão.
 - 🧠 Principais soft skills: Comunicação, proatividade, trabalho em equipe e muita curiosidade.
 
-Nas horas vagas, eu gosto muito de ler e também correr. Aliás, a corrida é uma das minhas grandes paixões no momento. Também curto muito transferir conhecimento e aprender com as pessoas, pois sei que todo mundo tem algo muito importante para nos ensinar o tempo todo. Além disso, tenho dedicado meu tempo em aprimorar a minha escrita, aprender outros idiomas e passar tempo de qualidade ao lado das pessoas que são especiais para mim.
+Nas horas vagas, eu gosto muito de ler e também correr. Aliás, a corrida é uma das minhas grandes paixões no momento. Também curto muito transferir conhecimento e aprender com as pessoas, pois sei que todos têm algo muito importante para nos ensinar. Além disso, tenho dedicado meu tempo em aprimorar a minha escrita, aprender outros idiomas e passar tempo de qualidade ao lado das pessoas que são especiais para mim.
 
 ____
 
