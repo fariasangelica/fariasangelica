@@ -13,8 +13,8 @@
 #
 - 🧑🏻‍💻 Trabalhando com Teste de Software na IBM.
 - 🧑🏻‍🎓 Estudante de Ciência de Dados com formação prevista para jun/2024.
-- ✍🏼 Aluna da Mentoria de Testes e Qualidade de Software do Júlio de Lima e também da Test.Class que são aulas focadas em resolver problemas reais do mercado.
-- 🕵🏻‍♀️ Atualmente estou me aprofundando em Java, Spring Boot, Banco de Dados e Automações de API Rest, Cypress, Mobile e Web.
+- ✍🏼 Aluna da Mentoria de Testes e Qualidade de Software do Júlio de Lima **[here](https://www.juliodelima.com.br/mentoria/)** e também da Test.Class (Aulas focadas em resolver problemas reais das empresas) **[here](https://juliodelima.com.br/test.class/)**.
+- 🕵🏻‍♀️ Atualmente estou me aprofundando em Java, Spring Boot, Banco de Dados e Automações de API Rest, Cypress, Mobile e Web. 
 
 #
 
