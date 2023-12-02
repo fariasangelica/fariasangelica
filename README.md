@@ -11,7 +11,7 @@
 </div>
 
 #
-- 🧑🏻‍💻 Trabalhando com Teste de Software na IBM.
+- 🧑🏻‍💻 Trabalhando com Testes de Software na IBM.
 - 🧑🏻‍🎓 Estudante de Ciência de Dados.
 - 🧠 Principais soft skills: Comunicação, proatividade, trabalho em equipe e muita curiosidade.
 - ✍🏼 Aluna da **[Mentoria de Testes e Qualidade de Software do Júlio de Lima](https://www.juliodelima.com.br/mentoria/)** e da **[Test.Class do Júlio de Lima](https://juliodelima.com.br/test.class/)** que tem como foco na resolução de problemas reais das empresas.
