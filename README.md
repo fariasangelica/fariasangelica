@@ -12,7 +12,8 @@
 
 #
 - 🧑🏻‍💻 Trabalhando com Teste de Software na IBM.
-- 🧑🏻‍🎓 Estudante de Ciência de Dados com formação prevista para jun/2024.
+- 🧑🏻‍🎓 Estudante de Ciência de Dados.
+- 🧠 Principais soft skills: Comunicação, proatividade, trabalho em equipe e muita curiosidade.
 - ✍🏼 Aluna da **[Mentoria de Testes e Qualidade de Software do Júlio de Lima](https://www.juliodelima.com.br/mentoria/)** e da **[Test.Class do Júlio de Lima](https://juliodelima.com.br/test.class/)** que tem como foco na resolução de problemas reais das empresas.
 - 🕵🏻‍♀️ Atualmente estou me aprofundando em Java, Spring Boot, Banco de Dados e Automações de API Rest, Cypress, Mobile e Web. 
 
@@ -20,11 +21,10 @@
 
 👀 **Curiosidades:**
 
-- ✍🏼 Uma das minhas frases favoritas: "Suas atitudes falam tão alto que eu não consigo escutar o que você diz" - Ralph Waldo Emerson.
-- 🎻 Quando criança, aprendi a tocar alguns instrumentos sozinha: Violino, teclado, violão, ukulele e percussão.
-- 🧠 Principais soft skills: Comunicação, proatividade, trabalho em equipe e muita curiosidade.
+- ✍🏼 Frases favorita: "Suas atitudes falam tão alto que eu não consigo escutar o que você diz" - Ralph Waldo Emerson.
+- 🎻 Sou apaixonada por música e quando criança, eu aprendi a tocar alguns instrumentos sozinha: Violino, teclado, violão, ukulele e percussão.
 
-Nas horas vagas, eu gosto muito de ler e também correr. Aliás, a corrida é uma das minhas grandes paixões no momento. Também curto muito transferir conhecimento e aprender com as pessoas, pois sei que todos têm algo muito importante para nos ensinar. Além disso, tenho dedicado meu tempo em aprimorar a minha escrita, aprender outros idiomas e passar tempo de qualidade ao lado das pessoas que são especiais para mim.
+Nas horas vagas, eu gosto muito de ler e também correr. Aliás, a corrida é uma das minhas grandes paixões no momento. Também curto muito transferir conhecimento e aprender com as pessoas, pois sei que todos têm algo muito importante para nos ensinar. Além disso, tenho dedicado meu tempo em aprimorar a minha escrita, aprender outros idiomas e passar tempo de qualidade ao lado das pessoas que considero especiais pra mim.
 
 ____
 
