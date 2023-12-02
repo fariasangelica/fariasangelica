@@ -21,8 +21,8 @@
 
 👀 **Curiosidades:**
 
-- ✍🏼 Frases favorita: "Suas atitudes falam tão alto que eu não consigo escutar o que você diz" - Ralph Waldo Emerson.
-- 🎻 Sou apaixonada por música e quando criança, eu aprendi a tocar alguns instrumentos sozinha: Violino, teclado, violão, ukulele e percussão.
+- ✍🏼 Frase favorita: "Suas atitudes falam tão alto que eu não consigo escutar o que você diz" - Ralph Waldo Emerson.
+- 🎻 Na infância, eu aprendi a tocar alguns instrumentos sozinha: Violino, teclado, violão, ukulele e percussão.
 
 Nas horas vagas, eu gosto muito de ler e também correr. Aliás, a corrida é uma das minhas grandes paixões no momento. Também curto muito transferir conhecimento e aprender com as pessoas, pois sei que todos têm algo muito importante para nos ensinar. Além disso, tenho dedicado meu tempo em aprimorar a minha escrita, aprender outros idiomas e passar tempo de qualidade ao lado das pessoas que considero especiais pra mim.
 
