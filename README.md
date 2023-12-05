@@ -15,7 +15,7 @@ Seja muito bem vinde por aqui <img src="https://media.giphy.com/media/WUlplcMpOC
 - 🧑🏻‍💻 Trabalhando com Testes de Software na IBM.
 - 🧑🏻‍🎓 Estudante de Ciência de Dados.
 - 🧠 Principais Soft Skills: Comunicação, proatividade, trabalho em equipe, questionadora e muito curiosa.
-- ✍🏼 Aluna da **[Mentoria de Testes e Qualidade de Software do Júlio de Lima](https://www.juliodelima.com.br/mentoria/)** e da **[Test.Class do Júlio de Lima](https://juliodelima.com.br/test.class/)** que tem como foco na resolução de problemas reais das empresas.
+- ✍🏼 Aluna da **[Mentoria de Testes e Qualidade de Software do Júlio de Lima](https://www.juliodelima.com.br/mentoria/)** e da **[Test.Class do Júlio de Lima](https://juliodelima.com.br/test.class/)**.
 - 🕵🏻‍♀️ Atualmente estou me aprofundando em Java, Spring Boot, Banco de Dados e Automações de API Rest, Cypress, Mobile e Web. 
 
 #
@@ -24,7 +24,7 @@ Seja muito bem vinde por aqui <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - ✍🏼 Frase favorita: "Suas atitudes falam tão alto que eu não consigo escutar o que você diz" - Ralph Waldo Emerson.
 - 🎻 Na infância e adolescência, eu aprendi a tocar alguns instrumentos sozinha: Violino, teclado, violão, ukulele e percussão.
-- 🫶🏻 Nas horas vagas, eu gosto muito de ler e também correr. Aliás, a corrida é uma das minhas grandes paixões no momento
+- 🫶🏻 Nas horas vagas, eu gosto muito de ler e também correr. Aliás, a corrida é uma das minhas grandes paixões no momento.
 
 ____
 
