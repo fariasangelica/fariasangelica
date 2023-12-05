@@ -1,7 +1,8 @@
-### Olá! Eu sou a Angelica 🧑‍💻
+### <p><em>Olá, eu sou a Angelica! 
+Seja muito bem vinde por aqui <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 
-                                                                                        
+ #                                                                                       
 
 **TEMOS QUE HACKEAR ESTEREÓTIPOS** - Cristina Aranda G.
 <div 
@@ -23,8 +24,7 @@
 
 - ✍🏼 Frase favorita: "Suas atitudes falam tão alto que eu não consigo escutar o que você diz" - Ralph Waldo Emerson.
 - 🎻 Na infância, eu aprendi a tocar alguns instrumentos sozinha: Violino, teclado, violão, ukulele e percussão.
-
-Nas horas vagas, eu gosto muito de ler e também correr. Aliás, a corrida é uma das minhas grandes paixões no momento. Também curto muito transferir conhecimento e aprender com as pessoas, pois sei que todos têm algo muito importante para nos ensinar. Além disso, tenho dedicado meu tempo em aprimorar a minha escrita e interpretação textual, aprender outros idiomas e passar tempo de qualidade ao lado das pessoas que considero especiais.
+- 🫶🏻 Nas horas vagas, eu gosto muito de ler e também correr. Aliás, a corrida é uma das minhas grandes paixões no momento
 
 ____
 
