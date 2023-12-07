@@ -23,7 +23,7 @@ Seja muito bem vinde por aqui <img src="https://media.giphy.com/media/WUlplcMpOC
 👀 **Curiosidades:**
 
 - ✍🏼 Frase favorita: "Suas atitudes falam tão alto que eu não consigo escutar o que você diz" - Ralph Waldo Emerson.
-- 🎻 Na infância e adolescência, eu aprendi a tocar alguns instrumentos sozinha: Violino, teclado, violão, ukulele e percussão.
+- 🎻 Na infância e adolescência, aprendi a tocar alguns instrumentos sozinha: Violino, teclado, violão, ukulele e percussão.
 - 🫶🏻 Nas horas vagas, eu gosto muito de ler e também correr. Aliás, a corrida é uma das minhas grandes paixões no momento.
 
 ____
