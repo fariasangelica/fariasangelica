@@ -1,5 +1,5 @@
 ### <p><em>Olá, eu sou a Angelica! 
-Seja muito bem vinde por aqui <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+Sejam muito bem vindes! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 
  #                                                                                       
