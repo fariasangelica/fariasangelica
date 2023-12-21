@@ -12,7 +12,6 @@ Sejam muito bem vindes! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 </div>
 
 #
-- 🧑🏻‍💻 Trabalhando com Testes de Software na IBM.
 - 🧑🏻‍🎓 Estudante de Ciência de Dados.
 - 🧠 Principais Soft Skills: Comunicação, questionadora, proatividade, trabalho em equipe e muito curiosa.
 - 🕵🏻‍♀️ Atualmente, estou me aprofundando em Java, Spring Boot, Banco de Dados e Automações de API Rest, Cypress, Mobile, Web e Desktop. 
