@@ -15,8 +15,7 @@ Sejam muito bem vindes! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - 🧑🏻‍💻 Trabalhando com Testes de Software na IBM.
 - 🧑🏻‍🎓 Estudante de Ciência de Dados.
 - 🧠 Principais Soft Skills: Comunicação, questionadora, proatividade, trabalho em equipe e muito curiosa.
-- ✍🏼 Aluna da **[Mentoria de Testes e Qualidade de Software do Júlio de Lima](https://www.juliodelima.com.br/mentoria/)** e da **[Test.Class do Júlio de Lima](https://juliodelima.com.br/test.class/)**.
-- 🕵🏻‍♀️ Atualmente, estou me aprofundando em Java, Spring Boot, Banco de Dados e Automações de API Rest, Cypress, Mobile e Web. 
+- 🕵🏻‍♀️ Atualmente, estou me aprofundando em Java, Spring Boot, Banco de Dados e Automações de API Rest, Cypress, Mobile, Web e Desktop. 
 
 #
 
