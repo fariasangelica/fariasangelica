@@ -3,7 +3,6 @@ Sejam muito bem vindes! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 [![Linkedin Badge](https://img.shields.io/badge/-Angelica%20Farias-fbca16?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelica-farias/)](https://www.linkedin.com/in/angelica-farias/)
 
-www.linkedin.com/in/angelica-farias
 
  #                                                                                       
 
