@@ -1,6 +1,9 @@
 ### <p><em>Olá, eu sou a Angelica! 
 Sejam muito bem vindes! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Angelica%20Farias-fbca16?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelica-farias/)](https://www.linkedin.com/in/angelica-farias/)
+
+www.linkedin.com/in/angelica-farias
 
  #                                                                                       
 
@@ -15,14 +18,6 @@ Sejam muito bem vindes! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - 🧑🏻‍🎓 Estudante de Ciência de Dados.
 - 🧠 Principais Soft Skills: Costumo me destacar pela minha forte comunicação, proatividade e curiosidade.
 - 🕵🏻‍♀️ Atualmente, estou me aprofundando em Java, Spring Boot, Angular, Banco de Dados e Automações de API Rest, Cypress, Mobile, Web e Desktop. 
-
-#
-
-👀 **Curiosidades:**
-
-- ✍🏼 Frase favorita: "Suas atitudes falam tão alto que eu não consigo escutar o que você diz" - Ralph Waldo Emerson.
-- 🎻 Na infância e adolescência, aprendi a tocar alguns instrumentos sozinha: Violino, teclado, violão, ukulele e percussão.
-- 🫶🏻 Nas horas vagas, eu gosto muito de ler e também correr. Aliás, a corrida é uma das minhas grandes paixões no momento.
 
 ____
 
@@ -54,11 +49,4 @@ IDEs:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
    
   
-____
-<h3 align="left">🔗 Entre em contato comigo:</h3>
-<p align="left">
-  <a href = "mailto:angelicafarioliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="http://www.linkedin.com/in/an
-gelicaoliveira-ciênciadedados" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
