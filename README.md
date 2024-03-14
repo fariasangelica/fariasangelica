@@ -1,5 +1,5 @@
 ### <p><em>Olá, eu sou a Angelica! 
-Sejam muito bem vindes! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+Sejam muito bem vindos(as)! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Angelica%20Farias-fbca16?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelica-farias/)](https://www.linkedin.com/in/angelica-farias/)
 
