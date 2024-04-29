@@ -16,7 +16,7 @@ Sejam muito bem vindos(as)! <img src="https://media.giphy.com/media/WUlplcMpOCEm
 #
 - 🧑🏻‍🎓 Estudante de Ciência de Dados.
 - 🧠 Principais Soft Skills: Costumo me destacar pela minha forte comunicação, proatividade e curiosidade.
-- 🕵🏻‍♀️ Atualmente, estou me aprofundando na linguagem python, CI/CD, Banco de Dados, Automações de API Rest, Cypress, Robot com appium, Web e Desktop, CI/CD e DevOps.
+- 🕵🏻‍♀️ Atualmente, estou me aprofundando na linguagem python, CI/CD, Banco de Dados, Automação mobile, API Rest, Cypress, Robot com appium, Web e Desktop, CI/CD e DevOps.
 
 ____
 
