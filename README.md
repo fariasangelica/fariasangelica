@@ -18,7 +18,7 @@ Sejam muito bem vindos(as)! <img src="https://media.giphy.com/media/WUlplcMpOCEm
 #
    Gosto muito de estudar tecnologia até de fato entende-la. Em resumo, uma eterna aprendiz.
       
-- Estudando com afinco: Python e Go, Automação Mobile e Robot Framework com Appium, IA e DeVops.
+- Estudando com afinco: Python e Go, Automação Mobile e Robot Framework com Appium, IA e DevOps.
 - Principais soft skills: Costumo me destacar pela minha forte comunicação, proatividade, curiosidade e atenção meticulosa aos detalhes com o compromisso de fornecer produtos de alta qualidade.
 
 ____
