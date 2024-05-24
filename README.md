@@ -17,7 +17,7 @@ Sejam muito bem vindos(as)! <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 #
 
-- Gosto muito de estudar tecnologia até de fato entende-la. Em resumo, uma eterna aprendiz.
+- Gosto muito de estudar tecnologia até de fato entende-la. 
 
 - Principais soft skills: Costumo me destacar pela minha comunicação, proatividade, curiosidade e atenção meticulosa aos detalhes com o compromisso de fornecer produtos de alta qualidade.
 
