@@ -23,7 +23,7 @@ Sejam muito bem vindos(as)! <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 **Tecnologias que estou estudando:**
 
-<img src="https://skillicons.dev/icons?i=python,go,vscode,react,aws,git,github,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,go,vscode,aws,git,github,&theme=dark" />
 
 ____
 
