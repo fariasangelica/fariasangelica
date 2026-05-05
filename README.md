@@ -17,13 +17,29 @@ Sejam muito bem vindos(as)! <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 #
 
-- Gosto muito de estudar tecnologia até de fato entende-la. 
+Gosto muito de estudar tecnologia até de fato entende-la.
 
-- Principais soft skills: Costumo me destacar pela minha comunicação, proatividade, curiosidade e atenção meticulosa aos detalhes com o compromisso de fornecer produtos de alta qualidade.
+**Principais softskills:**
+- Costumo me destacar pela minha comunicação, proatividade, curiosidade e atenção meticulosa aos detalhes com o compromisso de fornecer produtos de alta qualidade.
 
-**Tecnologias que estou estudando:**
+**Minhas hardskills:**
 
-<img src="https://skillicons.dev/icons?i=python,go,vscode,aws,git,github,&theme=dark" />
+- Linguagens: Python e Typescript.
+- Web: Playwright, Robot Framework.
+- Mobile: WebDriverIO, Appium e nuvem (Browserstack, Lambda Test).
+- Regressão visual: Applitools.API: Supertest, Pactum JS (Consumer-Driver Contracts), Postman (Automação/Manual).
+- Banco de dados: MongoDB
+- Cloud: Browsertack e Lambda Test.
+- Outros: Salesforce • Jira, Confluence, Slack, MS Teams, Azure DevOps, Azure Test Plans, MCP, Engenharia de Prompt e IA.
+
+**Certificações Internacionais:**
+- Accredited Software Testing Fundamentals Certification (AICS®)
+- Accredited Scrum Fundamentals Certification (AICS®)
+
+**Mentorias:**
+- Mentoria em Testes de Software - Júlio de Lima
+- Test.class - Júlio de Lima
+
 
 ____
 
