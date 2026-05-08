@@ -29,11 +29,11 @@ Me destaco pela minha comunicação, proatividade, curiosidade e atenção metic
 📖 **Bootcampo:** Engenharia de Plataformas - Cesar School.
 
 > - Linguagens: Python e Typescript.
-> - Web: Playwright, Robot Framework.
-> - Mobile: WebDriverIO, Appium e nuvem (Browserstack, Lambda Test).
+> - Automação: n8n, Robot, Playwright.
+> - Mobile: WebDriverIO, Appium.
 > - Regressão visual: Applitools.API: Supertest, Pactum JS (Consumer-Driver Contracts), Postman (Automação/Manual).
-> - Banco de dados: MongoDB
-> - Cloud: Browsertack e Lambda Test.
+> - Banco de dados: MongoDB, SQL.
+> - Cloud: n8n Cloud, Browsertack e Lambda Test.
 > - Outros: Salesforce • Jira, Confluence, Slack, MS Teams, Azure DevOps, Azure Test Plans, MCP, Engenharia de Prompt e IA.
 
 **Certificações Internacionais:**
@@ -43,10 +43,3 @@ Me destaco pela minha comunicação, proatividade, curiosidade e atenção metic
 **Mentorias:**
 > - Mentoria em Testes de Software - Júlio de Lima
 > - Test.class - Júlio de Lima
-
-
-____
-
-  
-
-
