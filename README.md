@@ -37,9 +37,10 @@ Me destaco pela minha comunicação, proatividade, curiosidade e atenção metic
 > - Outros: Salesforce • Jira, Confluence, Slack, MS Teams, Azure DevOps, Azure Test Plans, MCP, Engenharia de Prompt e IA.
 
 **Certificações Internacionais:**
-> - Accredited Software Testing Fundamentals Certification (AICS®)
-> - Accredited Scrum Fundamentals Certification (AICS®)
+> - Accredited Software Testing Fundamentals Certification (AICS®).
+> - Accredited Scrum Fundamentals Certification (AICS®).
 
-**Mentorias:**
-> - Mentoria em Testes de Software - Júlio de Lima
-> - Test.class - Júlio de Lima
+**Certificações e Mentorias:**
+> - Workshop Desenvolvimento Assistido por IA Avançado - Tech Leads Club.
+> - Mentoria em Testes de Software - Júlio de Lima.
+> - Test.class - Júlio de Lima.
