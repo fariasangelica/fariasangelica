@@ -29,9 +29,9 @@ Me destaco pela minha comunicação, proatividade, curiosidade e atenção metic
 📖 **Bootcampo:** Engenharia de Plataformas - Cesar School.
 
 > - Linguagens: Python e Typescript.
-> - Automação: n8n, Robot, Playwright.
+> - Automação: n8n, Robot, Api, Playwright.
 > - Mobile: WebDriverIO, Appium.
-> - Regressão visual: Applitools.API: Supertest, Pactum JS (Consumer-Driver Contracts), Postman (Automação/Manual).
+> - Regressão visual: Postman (Manual/Automação - Newman).
 > - Banco de dados: MongoDB, SQL.
 > - Cloud: n8n Cloud, Browsertack e Lambda Test.
 > - Outros: Salesforce • Jira, Confluence, Slack, MS Teams, Azure DevOps, Azure Test Plans, MCP, Engenharia de Prompt e IA.
@@ -40,7 +40,7 @@ Me destaco pela minha comunicação, proatividade, curiosidade e atenção metic
 > - Accredited Software Testing Fundamentals Certification (AICS®).
 > - Accredited Scrum Fundamentals Certification (AICS®).
 
-**Certificações e Mentorias:**
+**Mentorias:**
 > - Workshop Desenvolvimento Assistido por IA Avançado - Tech Leads Club.
 > - Mentoria em Testes de Software - Júlio de Lima.
 > - Test.class - Júlio de Lima.
