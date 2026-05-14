@@ -24,6 +24,7 @@ Gosto muito de estudar tecnologia até de fato entende-la.
 **Principais softskills:**
 Me destaco pela minha comunicação, proatividade, curiosidade e atenção meticulosa aos detalhes com o compromisso de fornecer produtos de alta qualidade.
 
+
 👩🏻‍🎓 **Minha Formação e Hardskills:**
 
 📖 **Formação:** Ciência de Dados - Uninter.
