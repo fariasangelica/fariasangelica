@@ -52,26 +52,3 @@ Python | Typescript | n8n | Zapier | Api Rest | Robot | Playwright | Newman | Pa
 
 • Test.class - Júlio de Lima
 
---
-
-**About me (ENG):**
-
-I work with automation, quality, and data analysis in highly complex products, such as finance, healthcare, telecommunications, and AI, in projects for national and multinational companies.
-
-**My Stack:**
-Python | Typescript | n8n | Zapier | Api Rest | Robot | Playwright | Newman | Pactum JS | Salesforce | Hubspot | CRM | CI/CD | Git, Github e Gitlab | SQL | n8n Cloud | SalesCloud | Browserstack | Google Sheets | Data Quality Analysis | MCP | Prompt and Context Engineering | IA | Confluence | Jira | Azure DevOps
-
-**International Certifications**
-
-• Accredited Scrum Fundamentals Certification (AICS®)
-
-• Accredited Software Testing Fundamentals Certification (AICS®)
-
-**Mentorships**
-
-• Advanced AI-Assisted Development Workshop - Tech Leads Club.
-
-• Software Testing Mentorship – Júlio de Lima
-
-• Test.class – Júlio de Lima
-
