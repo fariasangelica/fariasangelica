@@ -21,24 +21,4 @@ Sejam muito bem vindos(as)! <img src="https://media.giphy.com/media/WUlplcMpOCEm
 Engenheira de Automação há mais de 4 anos com experiencia em desenvolvimento Python. Habilidosa na construção de automações escaláveis utilizando n8n, Api Rest e Playwright. Além de implementações de soluções de IA como agentes autônomos, LLMs e arquiteturas MCP para ampliar novas integrações e ganho de eficiência.
 
 
-### 👩🏻‍🎓 **Formação Acadêmica:**
-
-**Formação:** Ciência de Dados - Uninter.
-
-**Bootcampo:** Engenharia de Plataformas - Cesar School.
-
-
-### ⭐ **Certificações Internacionais:**
-
-• Accredited Software Testing Fundamentals Certification (AICS®)
-
-• Accredited Scrum Fundamentals Certification (AICS®)
-
-**Mentorias:**
-
-• Workshop Desenvolvimento Assistido por IA Avançado - Tech Leads Club. 
-
-• Mentoria em Testes de Software - Júlio de Lima
-
-• Test.class - Júlio de Lima
 
