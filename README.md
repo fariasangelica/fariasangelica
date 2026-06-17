@@ -15,28 +15,17 @@ Sejam muito bem vindos(as)! <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 </div>
 
-#
 
-Gosto muito de estudar tecnologia até de fato entende-la.
-
---
-
-**Principais softskills:**
-Me destaco pela minha comunicação, proatividade, curiosidade e atenção meticulosa aos detalhes com o compromisso de fornecer produtos de alta qualidade.
+**Stacks:**
+Engenheira de Automação há mais de 4 anos com experiencia em desenvolvimento Python. Habilidosa na construção de automações escaláveis utilizando n8n, Api Rest e Playwright. Além de implementações de soluções de IA como agentes autônomos, LLMs e arquiteturas MCP para ampliar novas integrações e ganho de eficiência.
 
 
-👩🏻‍🎓 **Minha Formação e Hardskills:**
+👩🏻‍🎓 **Formação Acadêmica:**
 
 📖 **Formação:** Ciência de Dados - Uninter.
 
 📖 **Bootcampo:** Engenharia de Plataformas - Cesar School.
 
-**Sobre mim (PT-BR):**
-
-Atuo com automação, qualidade e análise de dados em produtos de alta complexidade, como financeiro, saúde, telecomunicações e IA em projetos de empresas nacionais e multinacionais.
-
-**Minha stack:** 
-Python | Typescript | n8n | Zapier | Api Rest | Robot | Playwright | Newman | Pactum JS | Selenium | Salesforce | Hubspot | CRM | CI/CD | Git, Github e Gitlab | SQL | n8n Cloud | SalesCloud | Browserstack | Google Sheets | Análise de Qualidade de Dados | MCP | Engenharia de Prompt e Contexto | IA | Confluence | Jira | Azure DevOps
 
 **Certificações Internacionais:**
 
