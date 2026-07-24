@@ -1,5 +1,5 @@
-### <p><em>Olá, eu sou a Angelica! 
-Sejam muito bem vindos(as)! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+### <p><em>Hi, I'm Angelica! 
+Welcome! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 
 
@@ -18,7 +18,14 @@ Sejam muito bem vindos(as)! <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ### **Stacks:**
-Engenheira de Automação com experiencia em desenvolvimento Python. Habilidosa na construção de automações escaláveis utilizando n8n, Api Rest e Playwright. Além de implementações de soluções de IA como agentes autônomos, LLMs e arquiteturas MCP para ampliar novas integrações e ganho de eficiência.
+I am a Senior Software Test Engineer with 5 years of experience in Python development. I am skilled in building automation, agentic workflows and modern quality engineering.
+I lead test strategy from scratch from defining risks to shipping with confidence. I have built and scaled Playwright, Cypress, API, integration, component, smoke, regression and E2E test coverage across real production systems. 
+
+Recent focus areas:
+- AI agent testing
+- LLM
+- Agent builder quality strategy
+- Quality strategy for AI products
 
 
 
