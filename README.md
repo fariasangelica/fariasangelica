@@ -19,7 +19,7 @@ Welcome! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" w
 
 ### **Stacks:**
 I am a Senior Software Test Engineer with 5 years of experience in Python development. I am skilled in building automation, agentic workflows and modern quality engineering.
-I lead test strategy from scratch from defining risks to shipping with confidence. I have built and scaled Playwright, Cypress, Mobile, API, integration, component, smoke, regression and E2E test coverage across real production systems. 
+I lead test strategy from scratch from defining risks to shipping with confidence. I have built and scaled Playwright, Mobile, API, integration, component, smoke, regression and E2E test coverage across real production systems. 
 
 Recent focus areas:
 - AI agent testing
