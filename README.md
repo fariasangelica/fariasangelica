@@ -1,4 +1,4 @@
-### <p><em>Hi, I'm Angelica! 
+### <p><em> Sou a Angelica! 
 Welcome! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 
@@ -18,14 +18,16 @@ Welcome! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" w
 
 
 ### **Stacks:**
-I am a Senior Software Test Engineer with 5 years of experience in Python development. I am skilled in building automation, agentic workflows and modern quality engineering.
-I lead test strategy from scratch from defining risks to shipping with confidence. I have built and scaled Playwright, Mobile, API, integration, component, smoke, regression and E2E test coverage across real production systems. 
+Atuo como QA Engineer há 5 anos em diversos segmentos de produtos, como: Bancario, Telecom, Automotivo, Farmaceutico e Seguradora de planos. Tenho experiência na implementação e evolução de processos de qualidade, automações, fluxos de trabalho com agentes e engenharia moderna de software. Conduzo estratégias de qualidade e automação desde a definição de riscos até a entrega confiável de produtos. Desenvolvi e escalei automações de API, mobile, integração, componentes, regressão e cobertura E2E em sistemas de produção reais.
 
-Recent focus areas:
-- AI agent testing
+Tenho certificações em Teste de Software e Scrum, além de pós graduação em Engenharia de IA aplicada para agregar ainda mais na minha carreira.
+
+Áreas recentes de especialização:
+- Estratégia para Produtos de IA
+- Teste de Agentes de IA
+- Estratégia para Produtos de IA
+- RAG
 - LLM
-- Agent builder quality strategy
-- Quality strategy for AI products
 
 
 
