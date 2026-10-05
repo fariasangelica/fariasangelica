@@ -18,9 +18,16 @@ Welcome! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" w
 
 
 ### **Stacks:**
-Atuo como QA Engineer há 5 anos em diversos segmentos de produtos, como: Bancario, Telecom, Automotivo, Farmaceutico e Seguradora de planos. Tenho experiência na implementação e evolução de processos de qualidade, automações, fluxos de trabalho com agentes e engenharia moderna de software. Conduzo estratégias de qualidade e automação desde a definição de riscos até a entrega confiável de produtos. Desenvolvi e escalei automações de API, mobile, integração, componentes, regressão e cobertura E2E em sistemas de produção reais.
+QA Engineer há 5 anos, com foco em testes funcionais, API, mobile, integração, componentes, performance, regressão e cobertura E2E em sistemas de produção, sempre priorizando a melhor experiência para o usuário. Tenho expertise em gerenciamento de testes, riscos e experiência na definição de estratégias para implementação e evolução de processos de qualidade, automação, fluxos de trabalho com agentes de IA e engenharia moderna de software.
+ 
+Sou reconhecida por minha comunicação, proatividade e curiosidade genuína pelos clientes e produtos. Já recebi reconhecimentos da alta liderança de Agile COE da América Latina por colaborar ativamente com os times e por buscar constantemente as melhores práticas de trabalho em equipe e atendimento ao cliente.
 
-Tenho certificações em Teste de Software e Scrum, além de pós graduação em Engenharia de IA aplicada para agregar ainda mais na minha carreira.
+Certificações Internacionais:
+- Teste de Software
+- Scrum 
+
+Pós:
+- Engenharia de IA aplicada 
 
 Áreas recentes de especialização:
 - Estratégia para Produtos de IA
@@ -28,6 +35,3 @@ Tenho certificações em Teste de Software e Scrum, além de pós graduação em
 - Estratégia para Produtos de IA
 - RAG
 - LLM
-
-
-
